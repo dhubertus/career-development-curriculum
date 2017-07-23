@@ -7,9 +7,8 @@
     [Outreach Gist](https://gist.github.com/dhubertus/754393d80941e850ba46c7f477843b37)
     
     * Blog Post: Link to gist listing:
-       [Blog Post](https://medium.com/@dhubertus/first-dive-into-an-open-source-project-56cc4635369f)
-       * 3-4 sentences on how you're using this blog post to connect with other people in your network 
-       
+       [Blog Post](https://medium.com/@dhubertus/first-dive-into-an-open-source-project-56cc4635369f) </br>
+     Writing a blog post about my first dive into an open source project provides a great opportunity to show my passion for programming as well as my ability to synthesize information even when completely foreign to my current skill set. I described, to the best of my ability, the overwhelming feeling of jumping into a large foreign code base as a junior developer, and the methods in which I chose to break down the problem at hand into more digestible pieces. Hopefully this post will also help other junior developers who also find themselves feeling overwhelmed to take a few steps back and use the knowledge they do possess to break down unfamiliar issues.</br>
 * Link to your completed Turing portfolio with 2 additional projects: 
    [Turing Portfolio](https://www.turing.io/alumni/dave-hubertus)
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
