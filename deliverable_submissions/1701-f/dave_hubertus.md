@@ -12,7 +12,7 @@
 * Link to your completed Turing portfolio with 2 additional projects: 
    [Turing Portfolio](https://www.turing.io/alumni/dave-hubertus)
 * Summary of participation in practice interview and/or actual interview using these [guidelines](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/interview_practice_reflection_guidelines.md):
-* Link to completed action plan for the post-grad job search using this [template](https://github.com/turingschool/career-development-curriculum/blob/master/module_four/post_grad_plan.md): 
+* Link to completed action plan [link](https://gist.github.com/dhubertus/4b9e76c4c039b36ff4adc77964eb7602)
 
 ## Mod 3 Deliverables:
 
